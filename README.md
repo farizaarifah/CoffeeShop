@@ -1,6 +1,6 @@
 # Kitalulus-Test
 
-Kitalulus-Test merupakan suatu aplikasi Coffee Shop berisi sebuah halaman utama dan halaman menu kopi.
+Aplikasi ini dibuat untuk memenuhi Test yang diberikan Kitalulus untuk beranjak ke tahap berikutnya dalam pendaftaran magang. Kitalulus-Test merupakan suatu aplikasi Coffee Shop berisi sebuah halaman utama dan halaman menu kopi.
 Halaman utama dan halaman menu merupakan fragment. Halaman utama berisi Foto logo Coffee Shop dan halaman menu berisi tentang daftar nama menu kopi beserta harganya dengan tampilan recycler view
 
 ## Teknologi yang digunakan di aplikasi ini
