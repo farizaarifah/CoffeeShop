@@ -17,16 +17,16 @@ Halaman utama dan halaman menu merupakan fragment. Halaman utama berisi Foto log
 
 Halaman pengantar berisi gambar Logo Coffee Shop
 
-<img src="/ss/register.png">
+<img src="/img_readme/splash_screen.jpg" height="380">
 
 ### 2. Halaman Utama
 
 yaitu Fragment Home yang berisi Gambar dari Logo Coffee Shop di tengah.
 
-<img src="/ss/register.png">
+<img src="/img_readme/home.jpg" height="380">
 
 ### 3. Halaman Menu
 
 yaitu halaman yang berisi daftar-daftar menu kopi beserta harganya yang tersedia di Coffee Shop dengan menggunakan Recycler View dan Card View
 
-<img src="/ss/register.png">
+<img src="/img_readme/menu.jpg" height="380">
