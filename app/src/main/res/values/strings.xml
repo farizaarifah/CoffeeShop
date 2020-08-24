@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kitalulus-Test</string>
+    <string name="title_activity_main2">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_dashboard">Menu</string>
+
+</resources>
